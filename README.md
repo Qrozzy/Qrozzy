@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I am Efe Körün 👋
+- 🌱 I’m currently learning Python,Html,Css
 <!--
 **Wienxi/Wienxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
